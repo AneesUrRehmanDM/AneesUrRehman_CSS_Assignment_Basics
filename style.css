@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(135, 47, 47, 0.1);
+}
+h1{
+ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 10px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h2{
+    font-family: cursive;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+p{
+    color: rgba(180, 65, 74, 0.9);
+}
+
+.container-1{
+
+    width: 620px;
+    height: 500px;
+    opacity: 8;
+    background-image: url("/logo.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-position: 0% 40%; */
+
+}
+
+h1{
+    color: rgb(47, 10, 10);
+}
+
